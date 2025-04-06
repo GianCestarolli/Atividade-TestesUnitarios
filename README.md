@@ -1,1 +1,3 @@
-# Atividade---Testes-Unit-rios
+# Atividade-TestesUnitarios
+
+Repositório dedicado à realização da Atividade Teste Unitários.
