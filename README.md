@@ -36,6 +36,19 @@ git clone https://github.com/GianCestarolli/Atividade-TestesUnitarios.git
 2. **Abra o projeto em sua IDE preferida (IntelliJ IDEA, Eclipse, VS Code com extensão Java).**
 3. **Execute os testes:**
    - Clique com o botão direito na pasta "test" > "Run Tests".
+   - Ou utilize o terminal se estiver usando uma ferramenta como Maven ou Gradle (não incluída por padrão).
+
+---
+
+## 📌 Objetivos de Aprendizado
+
+- Compreender o papel dos testes unitários no desenvolvimento de software
+
+- Aprender a utilizar o JUnit de forma prática
+
+- Aumentar a cobertura e a confiabilidade do código
+
+- Facilitar a manutenção futura do sistema
 
 
 
