@@ -25,5 +25,17 @@ Essa atividade foi criada para fixar os conceitos de:
 
 ---
 
+## 🚀 Como Executar o Projeto
+
+1. **Clone o repositório**:
+
+```bash
+git clone https://github.com/GianCestarolli/Atividade-TestesUnitarios.git
+```
+
+2. **Abra o projeto em sua IDE preferida (IntelliJ IDEA, Eclipse, VS Code com extensão Java).**
+3. **Execute os testes:**
+   - Clique com o botão direito na pasta "test" > "Run Tests".
+
 
 
